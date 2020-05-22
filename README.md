@@ -6,8 +6,8 @@
 [Deep insights in Azure durable functions data with process mining](https://medium.com/@snefs/deep-insights-in-azure-durable-functions-data-with-process-mining-b8d93dd76a99)
 
 #### https://medium.com/@futureimpact
-- [[AI] What if Dr Evil has it?]([https://medium.com/@futureimpact/ai-what-if-dr-evil-has-it-c7796525fd70)
-- [[AI] Why are we stealing jobs of AI?]([https://medium.com/@futureimpact/ai-why-are-we-stealing-jobs-of-ai-74ec654ad897)
+- [AI: What if Dr Evil has it?]([https://medium.com/@futureimpact/ai-what-if-dr-evil-has-it-c7796525fd70)
+- [AI: Why are we stealing jobs of AI?]([https://medium.com/@futureimpact/ai-why-are-we-stealing-jobs-of-ai-74ec654ad897)
 - [[AI] What is real and what not?]([https://medium.com/@futureimpact/ai-what-is-real-and-what-not-485c0b21c3e7)
 - [[AI] What if AI became AI?]([https://medium.com/@futureimpact/ai-what-if-ai-became-ai-275553612c3b)
 - [[AI] When does it become intelligent?]([https://medium.com/@futureimpact/ai-when-does-it-become-intelligent-8f4abd0863d7)
