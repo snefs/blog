@@ -19,16 +19,15 @@
 
 ### 2018
 
-[Monitoring Azure Service Health](https://dibranmulder.github.io/2018/08/20/Azure-Service-Health/)
-[Azure Managed Identity](https://dibranmulder.github.io/2018/10/05/Azure-AD-Managed-Service-Identity/)
+- [Monitoring Azure Service Health](https://dibranmulder.github.io/2018/08/20/Azure-Service-Health/)
+- [Azure Managed Identity](https://dibranmulder.github.io/2018/10/05/Azure-AD-Managed-Service-Identity/)
 
 ### 2016
 
-- [Hololens]([https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens](https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens))
-- [Microsoft Band 2]([https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band](https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band))
-
-- IoT Suite
+- [Hololens](https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens)
+- [Microsoft Band 2](https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band)
+- IoT Suite (@caesarexperts)
 
 
 ### 2009 - 2015
-Integration blog about Microsoft Integration: [https://snefs.blogspot.com/](https://snefs.blogspot.com/)
+- Integration blog about Microsoft Integration: [https://snefs.blogspot.com/](https://snefs.blogspot.com/)
