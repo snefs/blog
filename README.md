@@ -16,6 +16,19 @@
 - [Alternative Reality, Part 2 — What IF?]([https://medium.com/@futureimpact/alternative-reality-85218562fe42](https://medium.com/@futureimpact/alternative-reality-85218562fe42))
 - [Alternative Reality, Part 1 — The Minimal Viable Product](https://medium.com/@futureimpact/alternative-reality-4c415fe57c44](https://medium.com/@futureimpact/alternative-reality-4c415fe57c44))
 - [[Future][Impact] — Introduction](https://medium.com/@futureimpact/future-impact-our-mission-3ed91c5459d0](https://medium.com/@futureimpact/future-impact-our-mission-3ed91c5459d0))
- 
- 
- 
+
+### 2018
+
+[Monitoring Azure Service Health](https://dibranmulder.github.io/2018/08/20/Azure-Service-Health/)
+[Azure Managed Identity](https://dibranmulder.github.io/2018/10/05/Azure-AD-Managed-Service-Identity/)
+
+### 2016
+
+- [Hololens]([https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens](https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens))
+- [Microsoft Band 2]([https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band](https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band))
+
+- IoT Suite
+
+
+### 2009 - 2015
+Integration blog about Microsoft Integration: [https://snefs.blogspot.com/](https://snefs.blogspot.com/)
